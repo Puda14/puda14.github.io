@@ -27,7 +27,7 @@ lastmod:
     
 # Article's tags
 tags: 
-
+    - :Algorithm
 
 # Article's categories: Blog, Project or Guideline
 categories:
