@@ -104,9 +104,9 @@ params:
         # Parameter detail can be found at https://giscus.app/        
         giscus:
             repo: Puda14/puda14.github.io
-            repoID: R_kgDOIpnbOw
+            repoID: R_kgDOIqXnQA
             category: General
-            categoryID: DIC_kwDOIpnbO84CTN_o
+            categoryID: DIC_kwDOIqXnQM4CTQAS
             mapping:
             lightTheme:
             darkTheme:
