@@ -22,6 +22,6 @@ license:
 hidden: false
 
 # Allow comments?
-comments: true
+comments: false
 
 ---

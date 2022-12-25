@@ -6,7 +6,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: Lorem ipsum dot sit amet
 
 # Author of the article
-author: Master Pi
+author: Puda14
 
 # Appears as the tail of the output URL.
 slug: "{{ .Name | lower }}"
