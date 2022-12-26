@@ -1,7 +1,7 @@
 ---
 # Page Description
 title: "About"
-description: Here we go !
+description: フン・ティエン・ダット
 date: 2022-12-23T01:41:13+07:00
 
 image: 
@@ -26,9 +26,12 @@ comments: false
 
 ---
 
-Hi, I'm Puda, and this is my personal blog.
+Hi🖐️, I'm Phung Tien Dat, my nickname is Puda. Right now I majored in Vietnam-Japan Information Technology called [(HEDSPI)](https://ts.hust.edu.vn/nganh-dao-tao/cong-nghe-thong-tin-viet-nhat-chuong-trinh-tien-tien)🎎🎏 which come from Hanoi University of Sciences and Technology [(HUST)](https://hust.edu.vn)🤓. I am really interested in learning and sharing knowledge about technology.💻
 
-Here are some ways to reach me:
+This is my personal blog, if you like it, 
+let me know in the comments below the posts.👀👀👀
+
+🔍Here are some ways to reach me:
 
 [<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
