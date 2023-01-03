@@ -52,12 +52,54 @@ license:
 ---
 
 # Problem
-updating...
+In HUST,
+some courses require completion of other courses, 
+and most students don't pay attention to this problem.
+Therefore, some cases of registering for a course without being able to study have occurred, leading to many difficulties during the semester.
+So I think we need a tool to help check the course we want to register for, what other course conditions are needed.
 # Solution
-updating...
+I crawled data of the courses from the hust student website and created a program that can solve the given problem and display as a tree.
 ## Operation
-updating...
+- ver 1: Display all the courses depending on the set of interest.
+- ver 2: Continue tracing to form a full tree of dependencies.
+- ver 3: Displays course name, number of credits, tuition credits, weighted final grades.
+
+There will be two types of graphs displayed, `type 1` is more detailed than `type 2`.
+
+`type 1`
+<p align="center">
+  <img src="cover.png" >
+</p>
+
+`type 2`
+<p align="center">
+  <img src="type2.png" >
+</p>
+
+If tool doesn't export the both tree, the courses code doesn't exist in the database.
+`NOT FOUND`
+<p align="center">
+  <img src="NotFound.png" >
+</p>
+
 ## Usage
-updating...
+It's very easy to use !!!
+
+>First, please enter your course code, regardless of uppercase or lowercase letters.
+<p align="center">
+  <img src="enter.png" >
+</p>
+
+>Then the result will be displayed.
+
+>If you want to see the condition of the courses that appear on the tree, click on it and you will see what you need.
 # Prize
-updating...
+This project won the third prize in 
+`the 2022 high application mvp product competition` 
+organized by 
+`svmc` 
+and 
+`soict`.
+<p align="center">
+  <img src="prize.png" >
+</p>
